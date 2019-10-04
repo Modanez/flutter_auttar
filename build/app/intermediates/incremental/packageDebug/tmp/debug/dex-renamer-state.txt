@@ -1,0 +1,4 @@
+#Fri Oct 04 10:37:21 BRT 2019
+base.0=/Users/paulo.modenes/Documents/Projects/dev/pdx/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

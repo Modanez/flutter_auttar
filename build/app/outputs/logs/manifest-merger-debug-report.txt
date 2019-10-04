@@ -1,0 +1,341 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:2:1-49:12
+MERGED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:2:1-87:12
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/73f9e018529086a5d86d468bef53e5f6/legacy-preference-v14-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/f046b3e23ec3872cea239635c21511e8/preference-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/4c712a943b3ef7b03236bd690992ba5a/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/98a401ebf3508b2127f0b7c81ac655fb/volley-1.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/4f37a040d795d0eef135b10b20545e3f/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/bbc51c53aec70aeae5178e82f15e817a/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/d382ba9b8c9ea9d7b43a9cfaea0ecdf4/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/402e2fb3baa5e6ca3b4a0d7ccbd7cd5b/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/bbfb1dc3f77ef69d606795da69c218f5/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/04087833f388d5ffa97a080d757646c2/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/07608d1ce0a2b5e25216bbe877b06158/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/684c19030ab34291fff8f6b761838da8/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/85b59553d84ac8d04663d7d81848664c/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:5:5-81
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:13:5-81
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:14:5-80
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:15:5-67
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:16:5-79
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:9:5-68
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:17:5-68
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:10:5-74
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:18:5-74
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:10:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:11:5-68
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:19:5-68
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:12:5-75
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:20:5-75
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:13:5-81
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:21:5-81
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:15:5-47:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:23:5-85:19
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:23:5-85:19
+MERGED from [com.android.volley:volley:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/98a401ebf3508b2127f0b7c81ac655fb/volley-1.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/98a401ebf3508b2127f0b7c81ac655fb/volley-1.0.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/07608d1ce0a2b5e25216bbe877b06158/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/07608d1ce0a2b5e25216bbe877b06158/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:18:9-28
+	android:allowBackup
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:16:9-57
+uses-library#org.apache.http.legacy
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:20:9-22:40
+	android:required
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:21:13-50
+activity#com.modanez.pdx.pdx.MainActivity
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:23:9-46:20
+	android:launchMode
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:27:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:26:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:29:13-55
+	android:configChanges
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:25:13-144
+	android:theme
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:28:13-51
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:24:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:38:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml:44:27-74
+uses-sdk
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:8:5-11:106
+MERGED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:8:5-11:106
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/73f9e018529086a5d86d468bef53e5f6/legacy-preference-v14-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/73f9e018529086a5d86d468bef53e5f6/legacy-preference-v14-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/f046b3e23ec3872cea239635c21511e8/preference-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/f046b3e23ec3872cea239635c21511e8/preference-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/4c712a943b3ef7b03236bd690992ba5a/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/4c712a943b3ef7b03236bd690992ba5a/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/98a401ebf3508b2127f0b7c81ac655fb/volley-1.0.0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/98a401ebf3508b2127f0b7c81ac655fb/volley-1.0.0/AndroidManifest.xml:7:5-43
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/4f37a040d795d0eef135b10b20545e3f/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/4f37a040d795d0eef135b10b20545e3f/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/bbc51c53aec70aeae5178e82f15e817a/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/bbc51c53aec70aeae5178e82f15e817a/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/d382ba9b8c9ea9d7b43a9cfaea0ecdf4/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/d382ba9b8c9ea9d7b43a9cfaea0ecdf4/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/402e2fb3baa5e6ca3b4a0d7ccbd7cd5b/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/402e2fb3baa5e6ca3b4a0d7ccbd7cd5b/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/bbfb1dc3f77ef69d606795da69c218f5/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/bbfb1dc3f77ef69d606795da69c218f5/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/04087833f388d5ffa97a080d757646c2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/04087833f388d5ffa97a080d757646c2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/07608d1ce0a2b5e25216bbe877b06158/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/07608d1ce0a2b5e25216bbe877b06158/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/684c19030ab34291fff8f6b761838da8/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/684c19030ab34291fff8f6b761838da8/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/85b59553d84ac8d04663d7d81848664c/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/85b59553d84ac8d04663d7d81848664c/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:11:9-103
+	android:targetSdkVersion
+		INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/paulo.modenes/Documents/Projects/dev/pdx/android/app/src/debug/AndroidManifest.xml
+activity#br.com.auttar.libctfclient.ui.CTFClientActivity
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:26:9-41:20
+	android:label
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:29:13-58
+	android:configChanges
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:28:13-74
+	android:theme
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:30:13-57
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:27:13-75
+intent-filter#action:name:android.intent.action.MAIN+action:name:br.com.auttar.mobile.ctfclient.intent.action.CTFCLIENT+category:name:android.intent.category.DEFAULT
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:31:13-40:29
+action#br.com.auttar.mobile.ctfclient.intent.action.CTFCLIENT
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:33:17-97
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:33:25-94
+category#android.intent.category.DEFAULT
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:35:27-73
+activity#br.com.auttar.libctfclient.ui.ConfiguracaoActivity
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:42:9-46:20
+	android:label
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:44:13-64
+	android:theme
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:43:13-78
+activity#br.com.auttar.libctfclient.ui.ConfiguracaoPinpadActivity
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:47:9-57:20
+	android:label
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:49:13-71
+	android:theme
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:50:13-47
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:48:13-84
+intent-filter#action:name:android.intent.action.MAIN+action:name:br.com.auttar.mobile.ctfclient.intent.action.CONFIG_PINPAD+category:name:android.intent.category.DEFAULT
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:51:13-56:29
+action#br.com.auttar.mobile.ctfclient.intent.action.CONFIG_PINPAD
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:53:17-101
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:53:25-98
+activity#br.com.auttar.libctfclient.ui.LoginActivity
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:58:9-62:20
+	android:label
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:60:13-57
+	android:windowSoftInputMode
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:61:13-68
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:59:13-71
+activity#br.com.auttar.libctfclient.ui.TokenSegurancaActivity
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:63:9-73:20
+	android:label
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:65:13-67
+	android:theme
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:66:13-47
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:64:13-80
+intent-filter#action:name:android.intent.action.MAIN+action:name:br.com.auttar.mobile.ctfclient.intent.action.TOKEN_SEGURANCA+category:name:android.intent.category.DEFAULT
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:67:13-72:29
+action#br.com.auttar.mobile.ctfclient.intent.action.TOKEN_SEGURANCA
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:69:17-103
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:69:25-100
+activity#br.com.auttar.libctfclient.ui.SenhaActivity
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:74:9-84:20
+	android:label
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:76:13-57
+	android:theme
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:77:13-47
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:75:13-71
+intent-filter#action:name:android.intent.action.MAIN+action:name:br.com.auttar.mobile.ctfclient.intent.action.ALTERAR_SENHA+category:name:android.intent.category.DEFAULT
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:78:13-83:29
+action#br.com.auttar.mobile.ctfclient.intent.action.ALTERAR_SENHA
+ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:80:17-101
+	android:name
+		ADDED from [:AuttarPaymentSDK-homolog-2.1.3:] /Users/paulo.modenes/.gradle/caches/transforms-2/files-2.1/0dd784285f0e631e988309f3141595d5/jetified-AuttarPaymentSDK-homolog-2.1.3/AndroidManifest.xml:80:25-98

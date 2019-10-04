@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="libctfclient_activity_ctfclient_land_horizontal_margin">50dp</dimen>
+</resources>

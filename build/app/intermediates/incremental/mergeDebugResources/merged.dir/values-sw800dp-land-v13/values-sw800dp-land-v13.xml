@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="libctfclient_activity_ctfclient_land_horizontal_margin">100dp</dimen>
+    <dimen name="libctfclient_ctfclient_container_display_width">600dp</dimen>
+    <dimen name="libctfclient_ctfclient_land_keyboard_width">500dp</dimen>
+    <dimen name="libctfclient_teclado">120dp</dimen>
+</resources>

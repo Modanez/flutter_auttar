@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.modanez.pdx.pdx"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="28" />
+    <!--
+         Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name="io.flutter.app.FlutterApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="pdx"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light" >
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.modanez.pdx.pdx.MainActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+            android:hardwareAccelerated="true"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.AppCompat"
+            android:windowSoftInputMode="adjustResize" >
+
+            <!--
+                 This keeps the window background of the activity showing
+                 until Flutter renders its first frame. It can be removed if
+                 there is no splash screen (such as the default splash screen
+                 defined in @style/LaunchTheme).
+            -->
+            <meta-data
+                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+                android:value="true" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.auttar.libctfclient.ui.CTFClientActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/libctfclient_app_name"
+            android:theme="@style/LibCTFClient.AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="br.com.auttar.mobile.ctfclient.intent.action.CTFCLIENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <!--
+                                    <category android:name="android.intent.category.BROWSABLE" />
+                                <data android:scheme="ctfclient" />
+                -->
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.auttar.libctfclient.ui.ConfiguracaoActivity"
+            android:label="@string/title_activity_configuracao"
+            android:theme="@style/Settings" >
+        </activity>
+        <activity
+            android:name="br.com.auttar.libctfclient.ui.ConfiguracaoPinpadActivity"
+            android:label="@string/title_activity_configuracao_pinpad"
+            android:theme="@style/DialogTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="br.com.auttar.mobile.ctfclient.intent.action.CONFIG_PINPAD" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.auttar.libctfclient.ui.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="adjustResize|stateVisible" >
+        </activity>
+        <activity
+            android:name="br.com.auttar.libctfclient.ui.TokenSegurancaActivity"
+            android:label="@string/title_activity_token_seguranca"
+            android:theme="@style/DialogTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="br.com.auttar.mobile.ctfclient.intent.action.TOKEN_SEGURANCA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.auttar.libctfclient.ui.SenhaActivity"
+            android:label="@string/title_activity_senha"
+            android:theme="@style/DialogTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="br.com.auttar.mobile.ctfclient.intent.action.ALTERAR_SENHA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
